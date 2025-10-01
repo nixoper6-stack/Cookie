@@ -1,7 +1,6 @@
-please clone my Cookie depencies github to make your own images for client ect
 
-Versions:
-  1.21.90
-  1.21.94
-  1.21.93
-  ect all 1.21.90
+This project is an open-source client for Minecraft: Bedrock Edition. Use as you want.
+
+To build your own images for the client and further customize it, please clone my Cookie Dependencies GitHub repository, which provides all necessary dependencies and resources.
+
+1.21.9x
