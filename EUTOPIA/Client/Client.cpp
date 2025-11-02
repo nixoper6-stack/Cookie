@@ -56,7 +56,7 @@ void Client::init() {
 	if (GI::getClientInstance() == nullptr)
 		return;
 	/*
-	logF("%llx",GI::clientInstance);
+	logF("%llx",GI::ccientInstance);
 	logF("%llx",GI::clientInstance->mcGame);
 	logF("%llx",GI::getLocalPlayer());
 	*/
